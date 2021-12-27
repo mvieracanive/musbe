@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GatewayService getCollection should return a list of GatewayDto 1`] = `
+Object {
+  "human_name": Any<String>,
+  "ipv4": Any<String>,
+  "serial": Any<String>,
+}
+`;
+
+exports[`GatewayService getCollection should return a list of GatewayDto 2`] = `
+Object {
+  "human_name": Any<String>,
+  "ipv4": Any<String>,
+  "serial": Any<String>,
+}
+`;
