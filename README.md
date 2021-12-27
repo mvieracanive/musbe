@@ -24,6 +24,9 @@
 
 ## Description
 
+Node version: v14.15.1
+NPM version: 7.14.0
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
